@@ -1,3 +1,3 @@
 ## Estudos javascript
 
-map / filter / reduce / async - await
+map / filter / reduce / async - await / Promise 
